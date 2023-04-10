@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cryptomonitor/static/css/main.5863c588.css",
-    "main.js": "/Cryptomonitor/static/js/main.d976a3b5.js",
-    "index.html": "/Cryptomonitor/index.html",
-    "main.5863c588.css.map": "/Cryptomonitor/static/css/main.5863c588.css.map",
-    "main.d976a3b5.js.map": "/Cryptomonitor/static/js/main.d976a3b5.js.map"
+    "main.css": "/static/css/main.5863c588.css",
+    "main.js": "/static/js/main.e64225fe.js",
+    "index.html": "/index.html",
+    "main.5863c588.css.map": "/static/css/main.5863c588.css.map",
+    "main.e64225fe.js.map": "/static/js/main.e64225fe.js.map"
   },
   "entrypoints": [
     "static/css/main.5863c588.css",
-    "static/js/main.d976a3b5.js"
+    "static/js/main.e64225fe.js"
   ]
 }
