@@ -16,7 +16,7 @@ const Navbar = () => {
   const handleSignOut = async () => {
     try {
       await logout();
-      navigate('/');
+      navigate('/Cryptomonitor');
     } catch (e) {
       console.log(e.message);
     }
@@ -67,7 +67,7 @@ const Navbar = () => {
       >
         <ul className='w-full p-4'>
           <li onClick={handleNav} className='border-b py-6'>
-            <Link to='/'>Home</Link>
+            <Link to='/Cryptomonitor'>Home</Link>
           </li>
           <li onClick={handleNav} className='border-b py-6'>
             <Link to='/account'>Account</Link>
@@ -76,7 +76,7 @@ const Navbar = () => {
             <ThemeToggle />
           </li>
         </ul>
-        {user ? 
+        {user ?
             <button
               onClick={handleSignOut}
               className='mb-20 border px-6 py-2 rounded-2xl shadow-lg hover:shadow-2xl'
