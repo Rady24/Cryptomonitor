@@ -24,7 +24,7 @@ const Navbar = () => {
 
   return (
     <div className='rounded-div flex items-center justify-between h-20 font-bold'>
-      <Link to='/'>
+      <Link to='/Cryptomonitor'>
         <h1 className='text-2xl'>Cryptomonitor</h1>
       </Link>
       <div className='hidden md:block'>
