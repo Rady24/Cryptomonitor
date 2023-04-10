@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptomonitor/static/css/main.5863c588.css",
+    "main.js": "/cryptomonitor/static/js/main.d6efcc69.js",
+    "index.html": "/cryptomonitor/index.html",
+    "main.5863c588.css.map": "/cryptomonitor/static/css/main.5863c588.css.map",
+    "main.d6efcc69.js.map": "/cryptomonitor/static/js/main.d6efcc69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5863c588.css",
+    "static/js/main.d6efcc69.js"
+  ]
+}
